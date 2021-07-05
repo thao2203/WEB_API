@@ -1,0 +1,48 @@
+F:\net core\BanOto\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+F:\net core\BanOto\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+F:\net core\BanOto\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\net core\BanOto\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+F:\net core\BanOto\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+F:\net core\BanOto\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+F:\net core\BanOto\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+F:\net core\BanOto\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+F:\net core\BanOto\DAL\bin\Debug\netcoreapp3.1\Model.dll
+F:\net core\BanOto\DAL\bin\Debug\netcoreapp3.1\Model.pdb
+F:\net core\BanOto\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+F:\net core\BanOto\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+G:\OneDrive\Web API\Sinh vien\BanOto\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+G:\OneDrive\Web API\Sinh vien\BanOto\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+G:\OneDrive\Web API\Sinh vien\BanOto\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+G:\OneDrive\Web API\Sinh vien\BanOto\DAL\bin\Debug\netcoreapp3.1\Model.dll
+G:\OneDrive\Web API\Sinh vien\BanOto\DAL\bin\Debug\netcoreapp3.1\Model.pdb
+G:\OneDrive\Web API\Sinh vien\BanOto\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+G:\OneDrive\Web API\Sinh vien\BanOto\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+G:\OneDrive\Web API\Sinh vien\BanOto\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+G:\OneDrive\Web API\Sinh vien\BanOto\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+G:\OneDrive\Web API\Sinh vien\BanOto\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+G:\OneDrive\Web API\Sinh vien\BanOto\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+G:\OneDrive\Web API\Sinh vien\BanOto\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+D:\BTL_API\BanOto\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+D:\BTL_API\BanOto\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\BTL_API\BanOto\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\BTL_API\BanOto\DAL\bin\Debug\netcoreapp3.1\Model.dll
+D:\BTL_API\BanOto\DAL\bin\Debug\netcoreapp3.1\Model.pdb
+D:\BTL_API\BanOto\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+D:\BTL_API\BanOto\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\BTL_API\BanOto\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\BTL_API\BanOto\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+D:\BTL_API\BanOto\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+D:\BTL_API\BanOto\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+D:\BTL_API\BanOto\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+D:\Pizza\BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+D:\Pizza\BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\Pizza\BackEnd\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\Pizza\BackEnd\DAL\bin\Debug\netcoreapp3.1\Model.dll
+D:\Pizza\BackEnd\DAL\bin\Debug\netcoreapp3.1\Model.pdb
+D:\Pizza\BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+D:\Pizza\BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\Pizza\BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\Pizza\BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+D:\Pizza\BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+D:\Pizza\BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+D:\Pizza\BackEnd\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
